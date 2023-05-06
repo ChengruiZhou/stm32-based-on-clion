@@ -1,4 +1,4 @@
-# 基于rt-thread studio的stm32 demo
+# 基于clion的stm32 demo
 <p align="center">
 <img src="figure/clion.png" width="100%" >
 </p>
