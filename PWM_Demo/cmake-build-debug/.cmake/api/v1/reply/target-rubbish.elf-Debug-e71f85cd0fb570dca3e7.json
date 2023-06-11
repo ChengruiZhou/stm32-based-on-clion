@@ -160,27 +160,27 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/rubbish/Core/Inc"
+					"path" : "D:/github/stm32 based on clion/PWM_Demo/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/rubbish/Drivers/STM32F1xx_HAL_Driver/Inc"
+					"path" : "D:/github/stm32 based on clion/PWM_Demo/Drivers/STM32F1xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/rubbish/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/github/stm32 based on clion/PWM_Demo/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/rubbish/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+					"path" : "D:/github/stm32 based on clion/PWM_Demo/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/rubbish/Drivers/CMSIS/Include"
+					"path" : "D:/github/stm32 based on clion/PWM_Demo/Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/Mr.zhou/Desktop/rubbish/Core/OLED"
+					"path" : "D:/github/stm32 based on clion/PWM_Demo/Core/OLED"
 				}
 			],
 			"language" : "C",
@@ -290,27 +290,27 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/rubbish/Core/Inc"
+					"path" : "D:/github/stm32 based on clion/PWM_Demo/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/rubbish/Drivers/STM32F1xx_HAL_Driver/Inc"
+					"path" : "D:/github/stm32 based on clion/PWM_Demo/Drivers/STM32F1xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/rubbish/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/github/stm32 based on clion/PWM_Demo/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/rubbish/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+					"path" : "D:/github/stm32 based on clion/PWM_Demo/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/rubbish/Drivers/CMSIS/Include"
+					"path" : "D:/github/stm32 based on clion/PWM_Demo/Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 11,
-					"path" : "C:/Users/Mr.zhou/Desktop/rubbish/Core/OLED"
+					"path" : "D:/github/stm32 based on clion/PWM_Demo/Core/OLED"
 				}
 			],
 			"language" : "ASM",
@@ -335,7 +335,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=C:/Users/Mr.zhou/Desktop/rubbish/cmake-build-debug/rubbish.map",
+				"fragment" : "\"-Wl,-gc-sections,--print-memory-usage,-Map=D:/github/stm32 based on clion/PWM_Demo/cmake-build-debug/rubbish.map\"",
 				"role" : "flags"
 			},
 			{
@@ -360,7 +360,7 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:/Users/Mr.zhou/Desktop/rubbish/STM32F103RCTX_FLASH.ld",
+				"fragment" : "\"D:/github/stm32 based on clion/PWM_Demo/STM32F103RCTX_FLASH.ld\"",
 				"role" : "flags"
 			}
 		],

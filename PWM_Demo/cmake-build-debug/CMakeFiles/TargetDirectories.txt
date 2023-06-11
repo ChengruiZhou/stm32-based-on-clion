@@ -1,3 +1,3 @@
-C:/Users/Mr.zhou/Desktop/rubbish/cmake-build-debug/CMakeFiles/rubbish.elf.dir
-C:/Users/Mr.zhou/Desktop/rubbish/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Mr.zhou/Desktop/rubbish/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/github/stm32 based on clion/PWM_Demo/cmake-build-debug/CMakeFiles/rubbish.elf.dir
+D:/github/stm32 based on clion/PWM_Demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github/stm32 based on clion/PWM_Demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

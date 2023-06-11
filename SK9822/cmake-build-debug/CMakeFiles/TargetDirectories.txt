@@ -1,0 +1,3 @@
+C:/Users/Mr.zhou/Desktop/SK9822/cmake-build-debug/CMakeFiles/SK9822.elf.dir
+C:/Users/Mr.zhou/Desktop/SK9822/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mr.zhou/Desktop/SK9822/cmake-build-debug/CMakeFiles/rebuild_cache.dir

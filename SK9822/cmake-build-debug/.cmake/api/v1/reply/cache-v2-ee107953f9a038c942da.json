@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Mr.zhou/Desktop/rubbish/cmake-build-debug"
+			"value" : "c:/Users/Mr.zhou/Desktop/SK9822/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -619,7 +619,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Mr.zhou/Desktop/rubbish/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Mr.zhou/Desktop/SK9822/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -679,7 +679,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Mr.zhou/Desktop/rubbish"
+			"value" : "C:/Users/Mr.zhou/Desktop/SK9822"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -691,7 +691,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/rubbish"
+			"value" : "C:/Program Files (x86)/SK9822"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "rubbish"
+			"value" : "SK9822"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1146,7 +1146,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "rubbish_BINARY_DIR",
+			"name" : "SK9822_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1155,10 +1155,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Mr.zhou/Desktop/rubbish/cmake-build-debug"
+			"value" : "C:/Users/Mr.zhou/Desktop/SK9822/cmake-build-debug"
 		},
 		{
-			"name" : "rubbish_IS_TOP_LEVEL",
+			"name" : "SK9822_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1170,7 +1170,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "rubbish_SOURCE_DIR",
+			"name" : "SK9822_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1179,7 +1179,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Mr.zhou/Desktop/rubbish"
+			"value" : "C:/Users/Mr.zhou/Desktop/SK9822"
 		}
 	],
 	"kind" : "cache",
