@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Mr.zhou/Desktop/STM32H743/cmake-build-debug"
+			"value" : "e:/OnChip/github/stm32 based on clion/Demo_Cpp/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -259,10 +259,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "UNINITIALIZED",
+			"type" : "STRING",
 			"value" : "D:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe"
 		},
 		{
@@ -387,10 +387,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "UNINITIALIZED",
+			"type" : "STRING",
 			"value" : "D:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe"
 		},
 		{
@@ -651,7 +651,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Mr.zhou/Desktop/STM32H743/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "E:/OnChip/github/stm32 based on clion/Demo_Cpp/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -711,7 +711,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Mr.zhou/Desktop/STM32H743"
+			"value" : "E:/OnChip/github/stm32 based on clion/Demo_Cpp"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -751,7 +751,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "D:/PROGRA~2/JETBRA~1/CLION2~1.4/bin/ninja/win/x64/ninja.exe"
+			"value" : "D:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1203,7 +1203,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Mr.zhou/Desktop/STM32H743/cmake-build-debug"
+			"value" : "E:/OnChip/github/stm32 based on clion/Demo_Cpp/cmake-build-debug"
 		},
 		{
 			"name" : "STM32H743_IS_TOP_LEVEL",
@@ -1227,7 +1227,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Mr.zhou/Desktop/STM32H743"
+			"value" : "E:/OnChip/github/stm32 based on clion/Demo_Cpp"
 		}
 	],
 	"kind" : "cache",

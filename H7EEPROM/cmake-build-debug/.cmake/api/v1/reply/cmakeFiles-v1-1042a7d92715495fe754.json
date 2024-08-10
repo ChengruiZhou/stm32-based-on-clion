@@ -129,8 +129,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/Mr.zhou/Desktop/STM32H743/cmake-build-debug",
-		"source" : "C:/Users/Mr.zhou/Desktop/STM32H743"
+		"build" : "C:/Users/Mr.zhou/Desktop/H7EEPROM/cmake-build-debug",
+		"source" : "C:/Users/Mr.zhou/Desktop/H7EEPROM"
 	},
 	"version" : 
 	{
