@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Mr.zhou/Desktop/H7W25Q256/cmake-build-debug"
+			"value" : "e:/OnChip/github/stm32 based on clion/H7EEPROM/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -259,10 +259,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "UNINITIALIZED",
+			"type" : "STRING",
 			"value" : "D:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe"
 		},
 		{
@@ -387,10 +387,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "UNINITIALIZED",
+			"type" : "STRING",
 			"value" : "D:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe"
 		},
 		{
@@ -651,7 +651,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "E:/OnChip/github/stm32 based on clion/H7EEPROM/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -711,7 +711,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Mr.zhou/Desktop/H7W25Q256"
+			"value" : "E:/OnChip/github/stm32 based on clion/H7EEPROM"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -723,7 +723,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/H7W25Q256"
+			"value" : "C:/Program Files (x86)/H7EEPROM"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -907,7 +907,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "H7W25Q256"
+			"value" : "H7EEPROM"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1194,7 +1194,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "H7W25Q256_BINARY_DIR",
+			"name" : "H7EEPROM_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1203,10 +1203,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/cmake-build-debug"
+			"value" : "E:/OnChip/github/stm32 based on clion/H7EEPROM/cmake-build-debug"
 		},
 		{
-			"name" : "H7W25Q256_IS_TOP_LEVEL",
+			"name" : "H7EEPROM_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1218,7 +1218,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "H7W25Q256_SOURCE_DIR",
+			"name" : "H7EEPROM_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1227,7 +1227,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Mr.zhou/Desktop/H7W25Q256"
+			"value" : "E:/OnChip/github/stm32 based on clion/H7EEPROM"
 		}
 	],
 	"kind" : "cache",

@@ -129,8 +129,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/Mr.zhou/Desktop/H7EEPROM/cmake-build-debug",
-		"source" : "C:/Users/Mr.zhou/Desktop/H7EEPROM"
+		"build" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/cmake-build-debug",
+		"source" : "E:/OnChip/github/stm32 based on clion/H7W25Q256"
 	},
 	"version" : 
 	{

@@ -1,5 +1,5 @@
-"D:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" "-DCMAKE_C_COMPILER=D:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe" "-DCMAKE_CXX_COMPILER=D:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe" -G Ninja -S C:\Users\Mr.zhou\Desktop\H7W25Q256 -B C:\Users\Mr.zhou\Desktop\H7W25Q256\cmake-build-debug
+"D:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/CLion 2023.3.4/bin/ninja/win/x64/ninja.exe" "-DCMAKE_C_COMPILER=D:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-gcc.exe" "-DCMAKE_CXX_COMPILER=D:/Program Files (x86)/GNU Arm Embedded Toolchain/10 2021.10/bin/arm-none-eabi-g++.exe" -G Ninja -S "E:\OnChip\github\stm32 based on clion\H7W25Q256" -B "E:\OnChip\github\stm32 based on clion\H7W25Q256\cmake-build-debug"
 -- Minimal optimization, debug info included
 -- Configuring done (0.2s)
 -- Generating done (0.0s)
--- Build files have been written to: C:/Users/Mr.zhou/Desktop/H7W25Q256/cmake-build-debug
+-- Build files have been written to: E:/OnChip/github/stm32 based on clion/H7W25Q256/cmake-build-debug

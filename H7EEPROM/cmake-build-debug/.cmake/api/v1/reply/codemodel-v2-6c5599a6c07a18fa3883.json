@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "H7EEPROM.elf::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-H7EEPROM.elf-Debug-4294010d30a6c3502add.json",
+					"jsonFile" : "target-H7EEPROM.elf-Debug-0609bf9d838ab4a78a15.json",
 					"name" : "H7EEPROM.elf",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Mr.zhou/Desktop/H7EEPROM/cmake-build-debug",
-		"source" : "C:/Users/Mr.zhou/Desktop/H7EEPROM"
+		"build" : "E:/OnChip/github/stm32 based on clion/H7EEPROM/cmake-build-debug",
+		"source" : "E:/OnChip/github/stm32 based on clion/H7EEPROM"
 	},
 	"version" : 
 	{

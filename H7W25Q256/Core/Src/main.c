@@ -1925,9 +1925,18 @@ int main(void)
 
     // read structure to another instance
     W25Q_ReadData((uint8_t*) &_str2, len, in_page_shift, page_number);
-
+    if(W25Q_ReadData((uint8_t*) &_str2, len, in_page_shift, page_number) == W25Q_OK)
+    {
+        HAL_GPIO_WritePin(LED_B_GPIO_Port,LED_B_Pin,GPIO_PIN_RESET);
+    }
+    HAL_Delay(2000);
+    if(_str2.bca == 4144970){
+        HAL_GPIO_WritePin(LED_R_GPIO_Port,LED_R_Pin,GPIO_PIN_RESET);
+    }else{
+        HAL_GPIO_WritePin(LED_B_GPIO_Port,LED_B_Pin,GPIO_PIN_SET);
+    }
     W25Q_Sleep();	// go to sleep
-    HAL_GPIO_WritePin(LED_R_GPIO_Port,LED_R_Pin,GPIO_PIN_RESET);
+
 //    HAL_GPIO_WritePin(LED_B_GPIO_Port,LED_B_Pin,GPIO_PIN_RESET);
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
@@ -1939,10 +1948,10 @@ int main(void)
     /* USER CODE BEGIN 3 */
 
 //      while (1);
-//      HAL_GPIO_WritePin(LED_R_GPIO_Port,LED_R_Pin,GPIO_PIN_SET);
-//      HAL_Delay(1000);
-//      HAL_GPIO_WritePin(LED_R_GPIO_Port,LED_R_Pin,GPIO_PIN_RESET);
-//      HAL_Delay(1000);
+      HAL_GPIO_WritePin(LED_R_GPIO_Port,LED_R_Pin,GPIO_PIN_SET);
+      HAL_Delay(1000);
+      HAL_GPIO_WritePin(LED_R_GPIO_Port,LED_R_Pin,GPIO_PIN_RESET);
+      HAL_Delay(1000);
   }
   /* USER CODE END 3 */
 }

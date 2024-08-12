@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "H7W25Q256.elf::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-H7W25Q256.elf-Debug-807fc15d56a42373a50a.json",
+					"jsonFile" : "target-H7W25Q256.elf-Debug-93f641eb798de80d890f.json",
 					"name" : "H7W25Q256.elf",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/cmake-build-debug",
-		"source" : "C:/Users/Mr.zhou/Desktop/H7W25Q256"
+		"build" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/cmake-build-debug",
+		"source" : "E:/OnChip/github/stm32 based on clion/H7W25Q256"
 	},
 	"version" : 
 	{

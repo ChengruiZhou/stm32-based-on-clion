@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Mr.zhou/Desktop/H7EEPROM/cmake-build-debug"
+			"value" : "e:/OnChip/github/stm32 based on clion/H7W25Q256/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -651,7 +651,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Mr.zhou/Desktop/H7EEPROM/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -711,7 +711,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Mr.zhou/Desktop/H7EEPROM"
+			"value" : "E:/OnChip/github/stm32 based on clion/H7W25Q256"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -723,7 +723,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/H7EEPROM"
+			"value" : "C:/Program Files (x86)/H7W25Q256"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -907,7 +907,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "H7EEPROM"
+			"value" : "H7W25Q256"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1194,7 +1194,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "H7EEPROM_BINARY_DIR",
+			"name" : "H7W25Q256_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1203,10 +1203,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Mr.zhou/Desktop/H7EEPROM/cmake-build-debug"
+			"value" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/cmake-build-debug"
 		},
 		{
-			"name" : "H7EEPROM_IS_TOP_LEVEL",
+			"name" : "H7W25Q256_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1218,7 +1218,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "H7EEPROM_SOURCE_DIR",
+			"name" : "H7W25Q256_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1227,7 +1227,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Mr.zhou/Desktop/H7EEPROM"
+			"value" : "E:/OnChip/github/stm32 based on clion/H7W25Q256"
 		}
 	],
 	"kind" : "cache",

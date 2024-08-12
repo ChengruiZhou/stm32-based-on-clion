@@ -151,27 +151,27 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/Core/Inc"
+					"path" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/Drivers/STM32H7xx_HAL_Driver/Inc"
+					"path" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/Drivers/STM32H7xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy"
+					"path" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/Drivers/CMSIS/Device/ST/STM32H7xx/Include"
+					"path" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/Drivers/CMSIS/Device/ST/STM32H7xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/Drivers/CMSIS/Include"
+					"path" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/user"
+					"path" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/user"
 				}
 			],
 			"language" : "C",
@@ -285,27 +285,27 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/Core/Inc"
+					"path" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/Drivers/STM32H7xx_HAL_Driver/Inc"
+					"path" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/Drivers/STM32H7xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy"
+					"path" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/Drivers/STM32H7xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/Drivers/CMSIS/Device/ST/STM32H7xx/Include"
+					"path" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/Drivers/CMSIS/Device/ST/STM32H7xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/Drivers/CMSIS/Include"
+					"path" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/Drivers/CMSIS/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/user"
+					"path" : "E:/OnChip/github/stm32 based on clion/H7W25Q256/user"
 				}
 			],
 			"language" : "ASM",
@@ -330,7 +330,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=C:/Users/Mr.zhou/Desktop/H7W25Q256/cmake-build-debug/H7W25Q256.map",
+				"fragment" : "\"-Wl,-gc-sections,--print-memory-usage,-Map=E:/OnChip/github/stm32 based on clion/H7W25Q256/cmake-build-debug/H7W25Q256.map\"",
 				"role" : "flags"
 			},
 			{
@@ -355,7 +355,7 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:/Users/Mr.zhou/Desktop/H7W25Q256/STM32H743XIHX_FLASH.ld",
+				"fragment" : "\"E:/OnChip/github/stm32 based on clion/H7W25Q256/STM32H743XIHX_FLASH.ld\"",
 				"role" : "flags"
 			}
 		],

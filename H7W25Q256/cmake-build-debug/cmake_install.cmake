@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Mr.zhou/Desktop/H7W25Q256
+# Install script for directory: E:/OnChip/github/stm32 based on clion/H7W25Q256
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Mr.zhou/Desktop/H7W25Q256/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/OnChip/github/stm32 based on clion/H7W25Q256/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
